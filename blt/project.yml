@@ -1,5 +1,5 @@
 project:
-  machine_name: blt-d8
+  machine_name: blt-drupal
   prefix: BLT
   human_name: 'BLTed 8'
   profile:
